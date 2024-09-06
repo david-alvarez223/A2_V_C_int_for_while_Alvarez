@@ -18,6 +18,13 @@ Manejo de tipo de Variables, Cadenas, if, for, while
 - ![imagen](https://github.com/user-attachments/assets/e95f2b1f-d4ad-4240-8d18-7e8330f8047a)
 - para el caso falso
 - ![imagen](https://github.com/user-attachments/assets/afd1d602-3159-4a49-a4a1-a699de6fd948)
+## Otros ejemplos
+- While loop
+- ![imagen](https://github.com/user-attachments/assets/ff7e3d61-6193-4c7a-88b3-2de52c00ad0e)
+- For loop
+- ![imagen](https://github.com/user-attachments/assets/95046193-dc49-44e9-a5c2-dfead223c65f)
+
+
 
 
 
