@@ -13,6 +13,14 @@ Manejo de tipo de Variables, Cadenas, if, for, while
 - ![imagen](https://github.com/user-attachments/assets/f6530c63-729c-4089-bdbc-43f9bdb55938)
 - Resultado
 - ![imagen](https://github.com/user-attachments/assets/8c92c882-32b3-4223-b6ca-971b0c13ec8e)
+## If Else
+- cambio es verdadero
+- ![imagen](https://github.com/user-attachments/assets/e95f2b1f-d4ad-4240-8d18-7e8330f8047a)
+- para el caso falso
+- ![imagen](https://github.com/user-attachments/assets/afd1d602-3159-4a49-a4a1-a699de6fd948)
+
+
+
 
 
 
